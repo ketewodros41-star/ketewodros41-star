@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/kidus-tewodros-398443214">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:ketewodros41@gmail.com">
+    <a href="ketewodros41@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
@@ -86,11 +86,11 @@ I am a **Software Engineering** student from Ethiopia 🇪🇹 with a deep passi
 
 ### 🏆 Achievements & Trophies
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ketewodros41-star&theme=radical&no-frame=true&margin-w=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ketewodros41-star&theme=radical&no-frame=false&margin-w=15&row=2&column=3" />
   </a>
-</p>
+</div>
 
 ---
 
