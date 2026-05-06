@@ -38,30 +38,22 @@ I am a **Software Engineering** student from Ethiopia 🇪🇹 with a deep passi
 
 <table align="center">
   <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
+      <a href="https://github.com/ketewodros41-star/Trp-Data-Contract-Enforcer-2">
+        <b>Data Contract Enforcer</b><br/>
+        <img src="images/datacontract%20enforcer.jpe" width="100%" />
+      </a>
+    </td>
+    <td width="33%" align="center">
       <a href="https://github.com/ketewodros41-star/The-Conversion-Engine">
         <b>The Conversion Engine</b><br/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ketewodros41-star&repo=The-Conversion-Engine&theme=radical&show_owner=true" />
+        <img src="images/conversion%20engine.jpe" width="100%" />
       </a>
     </td>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <a href="https://github.com/ketewodros41-star/data-agent-challenge">
         <b>Data Agent Challenge</b><br/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ketewodros41-star&repo=data-agent-challenge&theme=radical&show_owner=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/ketewodros41-star/Sales-Agent-Evaluation-Bench">
-        <b>Sales Agent Eval Bench</b><br/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ketewodros41-star&repo=Sales-Agent-Evaluation-Bench&theme=radical&show_owner=true" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/ketewodros41-star/telebirr">
-        <b>Telebirr Integration</b><br/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ketewodros41-star&repo=telebirr&theme=radical&show_owner=true" />
+        <img src="images/dataagent%20challenge.png" width="100%" />
       </a>
     </td>
   </tr>
