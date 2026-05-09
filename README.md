@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=280&section=header&text=KIDUS%20GASHAW&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20AGENT%20ARCHITECT%20|%20FULL%20STACK%20DEVELOPER&descSize=20&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=280&section=header&text=KIDUS%20GASHAW&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20AGENT%20ARCHITECT%20|%20SYSTEMS%20ENGINEER&descSize=20&descAlignY=60" width="100%" />
   
   <p align="center">
     <a href="https://www.linkedin.com/in/kidus-tewodros-398443214">
@@ -12,30 +12,28 @@
   </p>
 
   <p align="center">
-    <code>LOAD_ENGINE_CORES</code> • <code>INITIALIZE_AGENT_NETWORKS</code> • <code>DEPLOY_SCALABLE_UI</code>
+    <code>AGENTIC_ORCHESTRATION</code> • <code>EVENT_SOURCED_SYSTEMS</code> • <code>HIGH_FREQUENCY_BACKENDS</code>
   </p>
 </div>
 
 ---
 
-### � SYSTEM_DOSSIER // ACCESSING_DATA...
+### 👤 BIOMETRICS // THE_ARCHITECT
 
 <table width="100%">
   <tr>
     <td width="60%" valign="top">
-      <h4>👤 BIOMETRICS</h4>
       <blockquote>
-        Software Engineering student from <b>Ethiopia 🇪🇹</b>. Specializing in <b>intelligent agents</b> and <b>high-performance backend architectures</b>. Passionate about LLM orchestration and workflow automation.
+        Software Engineering student from <b>Ethiopia 🇪🇹</b> specializing in the design and implementation of <b>autonomous multi-agent systems</b> and <b>production-grade event-sourced architectures</b>. I build resilient, high-performance engines that bridge the gap between complex LLM orchestration and enterprise-scale data infrastructure.
       </blockquote>
-      <h4>🎯 CURRENT_DIRECTIVES</h4>
+      <h4>🎯 CURRENT_FOCUS</h4>
       <ul>
-        <li>🔭 <b>Architecting:</b> <a href="https://github.com/ketewodros41-star/The-Conversion-Engine">The Conversion Engine</a></li>
-        <li>🤝 <b>Leading:</b> <a href="https://github.com/ketewodros41-star/data-agent-challenge">Data Agent Challenge</a></li>
-        <li>🌱 <b>Mastering:</b> Advanced System Design & Distributed Systems</li>
+        <li>🔭 <b>Architecting:</b> <a href="https://github.com/ketewodros41-star/The-Conversion-Engine">The Conversion Engine</a> — Autonomous B2B Outreach</li>
+        <li>🤝 <b>Leading:</b> <a href="https://github.com/ketewodros41-star/data-agent-challenge">Oracle Forge</a> — Multi-DB Analytics Agent</li>
+        <li>🌱 <b>Advancing:</b> Distributed Systems & High-Concurrency Backend Design</li>
       </ul>
     </td>
     <td width="40%" valign="top">
-      <h4>🛠️ NEURAL_INTERFACE</h4>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,redis,git,github,githubactions,postgresql,linux,postman,react,js,nextjs,tailwind,aws,mongodb&perline=4" />
       </p>
@@ -45,60 +43,46 @@
 
 ---
 
-### 🚀 ACTIVE_MISSIONS // HIGHLIGHTED_PROJECTS
+### 🚀 ACTIVE_MISSIONS // FEATURED_PROJECTS
 
 <table align="center">
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/ketewodros41-star/Trp-Data-Contract-Enforcer-2">
-        <b>[ MISSION: CONTRACT_ENFORCER ]</b><br/>
-        <img src="images/datacontract%20enforcer.jpe" width="90%" style="border-radius: 10px; border: 2px solid #7F00FF;" />
-      </a>
-    </td>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/ketewodros41-star/The-Conversion-Engine">
         <b>[ MISSION: CONVERSION_ENGINE ]</b><br/>
-        <img src="images/conversion%20engine.jpe" width="90%" style="border-radius: 10px; border: 2px solid #E100FF;" />
+        <img src="images/conversion%20engine.jpe" width="95%" style="border-radius: 12px; border: 2px solid #7F00FF; margin: 10px 0;" />
       </a>
+      <br/>
+      <i>Production-grade automated outreach system with LLM-powered ICP classification and signal-grounded engagement.</i>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/ketewodros41-star/data-agent-challenge">
+        <b>[ MISSION: ORACLE_FORGE ]</b><br/>
+        <img src="images/dataagent%20challenge.png" width="95%" style="border-radius: 12px; border: 2px solid #E100FF; margin: 10px 0;" />
+      </a>
+      <br/>
+      <i>Five-layer multi-database analytics agent answering complex cross-DB queries with autonomous self-correction.</i>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/ketewodros41-star/data-agent-challenge">
-        <b>[ MISSION: AGENT_CHALLENGE ]</b><br/>
-        <img src="images/dataagent%20challenge.png" width="90%" style="border-radius: 10px; border: 2px solid #7F00FF;" />
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/ketewodros41-star/Trp-Data-Contract-Enforcer-2">
+        <b>[ MISSION: CONTRACT_ENFORCER ]</b><br/>
+        <img src="images/datacontract%20enforcer.jpe" width="95%" style="border-radius: 12px; border: 2px solid #7F00FF; margin: 10px 0;" />
       </a>
+      <br/>
+      <i>Automated schema integrity system with blast-radius reporting and commit-level lineage attribution.</i>
     </td>
-    <td width="50%" align="center">
-      <a href="#-project-4--apex-ledger-event-sourced-loan-decisioning-platform">
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/ketewodros41-star/ketewodros41-star">
         <b>[ MISSION: APEX_LEDGER ]</b><br/>
-        <img src="images/apex%20ledger.png" width="90%" style="border-radius: 10px; border: 2px solid #E100FF;" />
+        <img src="images/apex%20ledger.png" width="95%" style="border-radius: 12px; border: 2px solid #E100FF; margin: 10px 0;" />
       </a>
+      <br/>
+      <i>Event-sourced loan decisioning engine with OCC-compliant concurrency and durable Multi-Agent memory.</i>
     </td>
   </tr>
 </table>
-
----
-
-### ⚡ PROJECT_DETAIL: APEX_LEDGER // [WEEK_05]
-
-<p align="center">
-  <img src="images/apex%20ledger.png" width="100%" style="border-radius: 15px; box-shadow: 0 0 20px rgba(127, 0, 255, 0.5);" />
-</p>
-
-**APEX LEDGER (2025)** — Event-Sourced Loan Application and Decisioning Engine.  
-*Associated with: 10 Academy*
-
-**_CORE_SYSTEM_CAPABILITIES:_**
-Built a full event-sourced loan decisioning platform for Apex Financial Services. Handles lifecycle from PDF upload to auditable approval/decline with crash-safe recovery and regulatory compliance.
-
-**_ARCHITECTURE_OVERVIEW:_**
-- **7 Aggregate Streams:** LoanApplication, DocumentPackage, AgentSession, CreditRecord, FraudScreening...
-- **45 Typed Events:** Strict Pydantic validation & OCC-compliant concurrency.
-- **5 LangGraph Agents:** DocumentProcessing, CreditAnalysis, FraudDetection, Compliance, Orchedtrator.
-- **Durable Memory:** Every agent appends `AgentSessionStarted` event for crash recovery.
-
-> **STACK:** `Python` • `LangGraph` • `asyncpg` • `Kafka (Aiven)` • `PostgreSQL` • `FastMCP` • `Docker`
 
 ---
 
