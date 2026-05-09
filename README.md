@@ -23,7 +23,7 @@
 
 <br/>
 
-<h2 align="center">👤 Professional Profile</h2>
+<h2 align="center">👤 About me</h2>
 
 <blockquote>
   <b>Software Engineer & Systems Architect</b> from Ethiopia 🇪🇹 specializing in the engineering of <b>autonomous multi-agent systems</b> and <b>production-grade event-sourced infrastructures</b>. I bridge the critical gap between high-level LLM reasoning and enterprise-scale industrial reliability, delivering systems that are both intelligent and resilient.
@@ -88,7 +88,7 @@
 
 <br/>
 
-<h2 align="center">🚀 Strategic Project Portfolio</h2>
+<h2 align="center">🚀 Project Portfolio</h2>
 
 <table align="center" width="100%">
   <tr>
