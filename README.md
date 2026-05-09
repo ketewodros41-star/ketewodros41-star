@@ -5,14 +5,19 @@
     <a href="https://www.linkedin.com/in/kidus-tewodros-398443214">
       <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+    <a href="https://x.com/Kidus5T99409">
+      <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" />
+    </a>
+    <a href="https://medium.com/@ketewodros41">
+      <img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    </a>
     <a href="mailto:ketewodros41@gmail.com">
       <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-success?style=for-the-badge" />
   </p>
 
   <p align="center">
-    <code>AGENTIC_ORCHESTRATION</code> • <code>EVENT_SOURCED_SYSTEMS</code> • <code>HIGH_FREQUENCY_BACKENDS</code>
+    <b>Forward Deployed AI Engineer | Building Event-Sourced Agent Pipelines & Data Infrastructure | Python • Claude • Docker</b>
   </p>
 </div>
 
@@ -22,7 +27,7 @@
 
 <table width="100%" align="center">
   <tr>
-    <td width="65%" valign="top">
+    <td width="55%" valign="top">
       <blockquote>
         <b>Software Engineer & Systems Architect</b> from Ethiopia 🇪🇹 specializing in the engineering of <b>autonomous multi-agent systems</b> and <b>production-grade event-sourced infrastructures</b>. I bridge the critical gap between high-level LLM reasoning and enterprise-scale industrial reliability, delivering systems that are both intelligent and resilient.
       </blockquote>
@@ -33,9 +38,29 @@
         <li>🏗️ <b>Systems Research:</b> Distributed Consensus & High-Concurrency Backend Design</li>
       </ul>
     </td>
-    <td width="35%" valign="top" align="center">
-      <br/>
-      <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,redis,git,github,githubactions,postgresql,linux,postman,react,js,nextjs,tailwind,aws,mongodb&perline=4" />
+    <td width="45%" valign="top">
+      <h4>⚙️ Tech Stack & Neural Architecture</h4>
+      <p>
+        <b>🧠 Intelligence & Agents:</b><br/>
+        <img src="https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangGraph-121212?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Llama_Index-4A90E2?style=flat-square&logo=python&logoColor=white" />
+      </p>
+      <p>
+        <b>⚡ Data & Event Streaming:</b><br/>
+        <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+      </p>
+      <p>
+        <b>🛠️ Systems & Infrastructure:</b><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
@@ -71,26 +96,25 @@
 
 <br/>
 
-<h2 align="center">📊 Technical Impact & Metrics</h2>
+<h2 align="center">📈 Telemetry & Operational Impact</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ketewodros41-star&show_icons=true&theme=radical&count_private=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketewodros41-star&theme=radical&border_radius=10" width="48%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ketewodros41-star&theme=radical&area=true&hide_border=true&border_radius=10" width="100%" />
-</div>
-
-<br/>
-
-<h2 align="center">🏆 Key Achievements</h2>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ketewodros41-star&theme=radical&no-frame=false&margin-w=15&row=2&column=3" />
-  </a>
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="30%" valign="top" align="center">
+      <h3>System Trophies</h3>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=ketewodros41-star&theme=radical&no-frame=false&margin-w=15&column=2&row=3" width="100%" />
+      </a>
+    </td>
+    <td width="70%" valign="top" align="center">
+      <h3>Code Flight Dynamics</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=ketewodros41-star&show_icons=true&theme=radical&count_private=true&border_radius=10" width="48%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketewodros41-star&theme=radical&border_radius=10" width="48%" />
+      <br/><br/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ketewodros41-star&theme=radical&area=true&hide_border=true&border_radius=10" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 ---
