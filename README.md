@@ -132,7 +132,7 @@
 
 <br/>
 
-<h2 align="center">🏆 System Trophies</h2>
+<h2 align="center">🏆Trophies</h2>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
