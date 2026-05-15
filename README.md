@@ -8,7 +8,7 @@
     <a href="https://x.com/Kidus5T99409">
       <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" />
     </a>
-    <a href="https://medium.com/@ketewodros41">
+    <a href="https://medium.com/@ktewodros41">
       <img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white" />
     </a>
     <a href="mailto:ketewodros41@gmail.com">
